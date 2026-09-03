@@ -1,0 +1,21 @@
+id: IAFA8F999
+initial_creation_type: ebook
+source_metadata:
+  id: BOK-022
+  title: སྡོམ་གསུམ་རགས་བསྡུས།
+  author: མཛད་པ་པོ། ཀརྨ་ངེས་དོན་བསྟན་རྒྱས།
+  authors: &id001
+  - མཛད་པ་པོ། ཀརྨ་ངེས་དོན་བསྟན་རྒྱས།
+  sku: BOK-022
+  cover: BOK-022.jpg
+  volume: {}
+ebook_metadata:
+  title: སྡོམ་གསུམ་རགས་བསྡུས།
+  authors: *id001
+  sku: BOK-022
+  cover: BOK-022.jpg
+layers:
+- Author
+- BookTitle
+- Chapter
+- Commentary
